@@ -159,7 +159,7 @@ window.addEventListener('scroll', function() {
   }
   timer = setTimeout(function() {
     $('body').css('pointer-events', 'auto');
-  }, 150);
+  }, 50);
 }, false);
 
 
